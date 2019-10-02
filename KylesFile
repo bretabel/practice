@@ -7,9 +7,10 @@ Edit #2 - Testing the branch thingy
 
 <html>
 <head>
-  Hello World
+  <title>Hello World</title>
 </head>
 <body>
-  Hello World.
+  <h1>Hello World.</h1>
+  <p>This is my webpage...hopefully.</p>  
 </body
 </html>
